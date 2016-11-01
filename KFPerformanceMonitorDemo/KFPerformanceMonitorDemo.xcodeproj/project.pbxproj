@@ -20,7 +20,6 @@
 		7EC8E93B1DAF7293002FE049 /* KFNetWorkLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC8E92E1DAF7293002FE049 /* KFNetWorkLabel.m */; };
 		7EC8E93C1DAF7293002FE049 /* KFNetWorkUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC8E9301DAF7293002FE049 /* KFNetWorkUtils.m */; };
 		7EC8E93D1DAF7293002FE049 /* KFPerformaceMonitorBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC8E9321DAF7293002FE049 /* KFPerformaceMonitorBar.m */; };
-		7EC8E93E1DAF7293002FE049 /* KFWaveLoadingIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC8E9341DAF7293002FE049 /* KFWaveLoadingIndicator.m */; };
 		7EC8E93F1DAF7293002FE049 /* KFWeakProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7EC8E9361DAF7293002FE049 /* KFWeakProxy.m */; };
 /* End PBXBuildFile section */
 
@@ -49,8 +48,6 @@
 		7EC8E9301DAF7293002FE049 /* KFNetWorkUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KFNetWorkUtils.m; sourceTree = "<group>"; };
 		7EC8E9311DAF7293002FE049 /* KFPerformaceMonitorBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KFPerformaceMonitorBar.h; sourceTree = "<group>"; };
 		7EC8E9321DAF7293002FE049 /* KFPerformaceMonitorBar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KFPerformaceMonitorBar.m; sourceTree = "<group>"; };
-		7EC8E9331DAF7293002FE049 /* KFWaveLoadingIndicator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KFWaveLoadingIndicator.h; sourceTree = "<group>"; };
-		7EC8E9341DAF7293002FE049 /* KFWaveLoadingIndicator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KFWaveLoadingIndicator.m; sourceTree = "<group>"; };
 		7EC8E9351DAF7293002FE049 /* KFWeakProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KFWeakProxy.h; sourceTree = "<group>"; };
 		7EC8E9361DAF7293002FE049 /* KFWeakProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KFWeakProxy.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -124,8 +121,6 @@
 				7EC8E9301DAF7293002FE049 /* KFNetWorkUtils.m */,
 				7EC8E9311DAF7293002FE049 /* KFPerformaceMonitorBar.h */,
 				7EC8E9321DAF7293002FE049 /* KFPerformaceMonitorBar.m */,
-				7EC8E9331DAF7293002FE049 /* KFWaveLoadingIndicator.h */,
-				7EC8E9341DAF7293002FE049 /* KFWaveLoadingIndicator.m */,
 				7EC8E9351DAF7293002FE049 /* KFWeakProxy.h */,
 				7EC8E9361DAF7293002FE049 /* KFWeakProxy.m */,
 			);
@@ -206,7 +201,6 @@
 				7EC8E9151DAF727F002FE049 /* ViewController.m in Sources */,
 				7EC8E9121DAF727F002FE049 /* AppDelegate.m in Sources */,
 				7EC8E9371DAF7293002FE049 /* KFCpuUsageLabel.m in Sources */,
-				7EC8E93E1DAF7293002FE049 /* KFWaveLoadingIndicator.m in Sources */,
 				7EC8E90F1DAF727F002FE049 /* main.m in Sources */,
 				7EC8E9391DAF7293002FE049 /* KFMemoryLabel.m in Sources */,
 				7EC8E9381DAF7293002FE049 /* KFFPSLabel.m in Sources */,
@@ -371,6 +365,7 @@
 				7EC8E9231DAF727F002FE049 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

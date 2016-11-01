@@ -11,7 +11,6 @@
 #import "KFMemoryLabel.h"
 #import "KFCpuUsageLabel.h"
 //#import "KFTemperatureLabel.h"
-#import "KFWaveLoadingIndicator.h"
 #import "KFNetWorkLabel.h"
 
 #define PerformaceMonitorLeft           20
